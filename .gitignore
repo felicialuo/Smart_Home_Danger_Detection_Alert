@@ -8,7 +8,7 @@
 *.zip
 *.rar
 *.tar
-*.gz
+
 
 # ignore h5 storing features
 *.h5
