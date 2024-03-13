@@ -1,4 +1,4 @@
-# sensing_project
+# Smart Home Danger Detection + Alert
 Final-project-in-progress for 17-422/722,05-499/899, Spring 2024: Building User-Focused Sensing Systems
  
 ## Installation
