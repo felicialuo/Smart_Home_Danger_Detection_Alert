@@ -20,3 +20,7 @@
 *.pth
 *.pt
 *.safetensors
+
+# ignore cache
+*.pyc
+*.DS_Store
