@@ -2,7 +2,8 @@
 Final-project-in-progress for 17-422/722,05-499/899, Spring 2024: Building User-Focused Sensing Systems.  
 This code is built upon official repositories of [CLAP](https://github.com/microsoft/CLAP) and [ViFi-CLIP](https://github.com/muzairkhattak/ViFi-CLIP).
  
-## Installation
+## Environment Setup
+This environment has been tested on MacBook Pro with M1 Pro chip.
 ```
 # use either of the following
 conda create --name vclap --file requirements.txt
