@@ -8,7 +8,7 @@ This environment has been tested on MacBook Pro with M1 Pro chip.
 # use either of the following
 conda create --name vclap --file requirements.txt
 # or
-conda env create -f environment.yml
+conda env create -f environment.yaml
 ```
 
 
