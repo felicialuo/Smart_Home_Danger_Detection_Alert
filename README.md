@@ -5,9 +5,6 @@ This code is built upon official repositories of [CLAP](https://github.com/micro
 ## Environment Setup
 This environment has been tested on MacBook Pro with M1 Pro chip.
 ```
-# use either of the following
-conda create --name vclap --file requirements.txt
-# or
 conda env create -f environment.yaml
 ```
 
