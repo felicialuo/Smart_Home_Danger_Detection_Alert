@@ -475,7 +475,7 @@ def convert_weights(model: nn.Module):
     model.apply(_convert_weights_to_fp16)
 
 
-def build_model(state_dict: dict, device: str, design_details):
+def build_model(state_dict: dict, design_details):
     vit = "visual.proj" in state_dict
 
     if vit:
@@ -512,10 +512,7 @@ def build_model(state_dict: dict, device: str, design_details):
         if key in state_dict:
             del state_dict[key]
 
-    # convert_weights(model)
-    if str(device) != "cpu":
-        convert_weights(model)
-
+    convert_weights(model)
     try:
         model.load_state_dict(state_dict)
     except:

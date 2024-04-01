@@ -30,7 +30,7 @@ def load_clip_to_cpu(cfg):
                       "language_depth": cfg.TRAINER.ViFi_CLIP.PROMPT_DEPTH_TEXT,
                       "vision_ctx": cfg.TRAINER.ViFi_CLIP.N_CTX_VISION,
                       "language_ctx": cfg.TRAINER.ViFi_CLIP.N_CTX_TEXT}
-    model = clip.build_model(state_dict or model.state_dict(), "cpu", design_details)
+    model = clip.build_model(state_dict or model.state_dict(), design_details)
 
     return model
 
@@ -169,7 +169,7 @@ class ViFiCLIP(nn.Module):
         self.image_encoder = clip_model.visual
         self.text_encoder = TextEncoder(clip_model)
         self.logit_scale = clip_model.logit_scale
-        self.dtype = clip_model.dtype # torch.float32 if device=='cpu'
+        self.dtype = clip_model.dtype
     def forward(self, image):
         tokenized_prompts = self.tokenized_prompts
         logit_scale = self.logit_scale.exp()
@@ -193,9 +193,10 @@ class ViFiCLIP(nn.Module):
 
         image_features = image_features / image_features.norm(dim=-1, keepdim=True)
         text_features = text_features / text_features.norm(dim=-1, keepdim=True)
-        logits = logit_scale * image_features @ text_features.t()
+        logits_per_image = logit_scale * image_features @ text_features.t()
+        logits_per_text = logit_scale * text_features @ image_features.t()
 
-        return logits
+        return logits_per_image, logits_per_text, image_features, text_features
 
 
 def returnCLIP(config, logger=None,
