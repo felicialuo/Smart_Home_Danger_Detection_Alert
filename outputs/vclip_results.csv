@@ -1,0 +1,423 @@
+file path,ground truth,top1 pred,confidence,top2 pred,confidence,top3 pred,confidence,top4 pred,confidence,top5 pred,confidence
+..\datasets\train\Crying\9q8mf6GUiiE_000009_000019.mp4,64,64,98.6816,66,0.1019,33,0.098,0,0.098,67,0.0493
+..\datasets\train\Crying\9s4bfiyc9Yc_000195_000205.mp4,64,64,94.3359,14,2.475,36,0.9102,66,0.2489,33,0.1879
+..\datasets\train\Crying\a4xHx59uFgk_000003_000013.mp4,64,64,98.4375,33,0.1758,66,0.1296,32,0.0792,50,0.0647
+..\datasets\train\Crying\a50yimv7Lqg_000026_000036.mp4,64,64,94.3848,57,0.2415,56,0.2377,67,0.2304,0,0.2001
+..\datasets\train\Crying\Afhkn2h-wLE_000000_000010.mp4,64,64,92.7734,33,1.9547,32,0.3971,17,0.2428,50,0.2373
+..\datasets\train\Crying\aMAJ-DRt6bU_000116_000126.mp4,64,64,97.998,33,0.1429,23,0.1342,0,0.107,66,0.1045
+..\datasets\train\Crying\a_yBdlVHrK8_000000_000010.mp4,64,64,97.1191,33,0.5096,66,0.1817,54,0.1329,50,0.112
+..\datasets\train\Crying\fKrcKrs-o_w_000000_000010.mp4,64,64,98.8281,33,0.1232,0,0.0654,66,0.0457,32,0.0436
+..\datasets\train\Crying\fLzGu07zA-I_000008_000018.mp4,64,64,98.0957,66,0.1474,62,0.1184,33,0.1079,54,0.0741
+..\datasets\train\Crying\FM06rkKxFms_000010_000020.mp4,64,33,75.0,64,8.0322,14,4.7974,61,1.2123,36,1.0872
+..\datasets\train\Crying\G6QENvmNkRE_000000_000010.mp4,64,64,99.1211,66,0.1285,33,0.1143,0,0.0351,54,0.031
+..\datasets\train\Crying\Ga9lFu4gurw_000015_000025.mp4,64,64,95.752,33,1.1322,32,0.3193,66,0.23,62,0.1533
+..\datasets\train\Crying\GnIgOUPiMqE_000023_000033.mp4,64,64,98.1934,33,0.259,66,0.1366,54,0.0766,62,0.0645
+..\datasets\train\Crying\gpaANcmFUOI_000003_000013.mp4,64,64,96.0938,66,0.2497,33,0.2169,62,0.1336,0,0.1336
+..\datasets\train\Crying\G_-Hx6u40nE_000032_000042.mp4,64,64,97.168,33,0.2996,66,0.1309,0,0.1259,54,0.1138
+..\datasets\train\Crying\H85OllZBK70_000013_000023.mp4,64,64,76.0742,62,4.0314,23,1.5305,0,0.9727,21,0.914
+..\datasets\train\Crying\Ha3vwLcjMAs_000157_000167.mp4,64,64,93.9941,33,0.8263,61,0.4219,32,0.3933,50,0.3666
+..\datasets\train\Crying\l5UWczmUVeY_000019_000029.mp4,64,64,78.5645,33,12.5366,14,2.0142,66,1.078,32,0.7294
+..\datasets\train\Crying\oH_BDY4bWp4_000000_000010.mp4,64,64,96.9727,33,0.3782,32,0.1652,62,0.1391,0,0.1266
+..\datasets\train\Crying\Oi7DvmU-tF0_000000_000010.mp4,64,64,98.4863,33,0.3134,66,0.087,32,0.0689,14,0.0627
+..\datasets\train\Crying\oNiWBhu1-JQ_000000_000010.mp4,64,64,90.8203,33,3.6346,67,0.3433,62,0.338,66,0.2937
+..\datasets\train\Crying\Pa4kyZAUTXQ_000017_000027.mp4,64,64,96.9727,14,0.729,33,0.2993,54,0.1277,66,0.0941
+..\datasets\train\Crying\pg4HbzuxCIE_000022_000032.mp4,64,64,87.2559,33,8.7097,32,1.284,66,0.2691,31,0.1452
+..\datasets\train\Crying\pHgqoFKTBDc_000004_000014.mp4,64,64,98.6816,0,0.1004,32,0.0723,54,0.0659,33,0.046
+..\datasets\train\Crying\pZxdg1Stvb8_000000_000010.mp4,64,64,98.291,0,0.1325,66,0.0816,23,0.0743,33,0.0731
+..\datasets\train\Crying\QApH290EHcU_000035_000045.mp4,64,64,96.3867,54,0.2043,32,0.2043,33,0.198,23,0.134
+..\datasets\train\Crying\qFOg87dNSh4_000001_000011.mp4,64,64,97.5098,33,0.5707,54,0.1687,42,0.0977,66,0.0835
+..\datasets\train\Crying\quf-iuFOT4s_000000_000010.mp4,64,64,94.873,33,1.3321,14,0.3422,50,0.2075,32,0.2043
+..\datasets\train\Crying\rCwNyAjkGPQ_000031_000041.mp4,64,64,98.4863,33,0.2619,66,0.1552,62,0.0622,54,0.0553
+..\datasets\train\Crying\sjZsedv-jG8_000008_000018.mp4,64,64,96.1914,33,1.7349,14,0.1504,66,0.148,50,0.1469
+..\datasets\train\Crying\tIm0yA_u5Qc_000000_000010.mp4,64,64,94.5312,33,2.5986,14,0.2533,17,0.1335,18,0.1106
+..\datasets\train\Crying\tlY2Cy-VH_g_000005_000015.mp4,64,33,25.5859,64,15.7715,14,13.6963,15,5.2826,61,4.8828
+..\datasets\train\Crying\TNl9NjfWZ1o_000084_000094.mp4,64,64,98.0957,33,0.3075,0,0.0827,66,0.0719,32,0.0655
+..\datasets\train\Crying\u-oc-Eln_yc_000003_000013.mp4,64,64,95.6543,33,2.0325,66,0.4002,67,0.1951,62,0.102
+..\datasets\train\Crying\Ux2iImyAiL4_000001_000011.mp4,64,64,95.752,66,0.7088,33,0.3647,46,0.3145,62,0.3
+..\datasets\train\Crying\VcHysqkJPSE_000002_000012.mp4,64,64,88.1348,20,1.8875,33,1.0101,32,0.8774,41,0.6836
+..\datasets\train\Crying\X3G7b1JNAfs_000000_000010.mp4,64,64,93.0176,33,3.2318,14,0.2474,66,0.2436,50,0.1674
+..\datasets\train\Crying\XBNgVxsrqo4_000010_000020.mp4,64,64,94.9707,14,0.7721,0,0.2468,33,0.2111,32,0.175
+..\datasets\train\Crying\xDLo1xt8P6U_000014_000024.mp4,64,64,83.5449,33,8.8013,66,0.9277,56,0.5287,50,0.4055
+..\datasets\train\Crying\yAgm_XnqBec_000010_000020.mp4,64,64,54.4434,33,40.7959,66,1.1848,67,0.3239,55,0.2058
+..\datasets\train\Crying\yDD0alN95O8_000015_000025.mp4,64,64,97.7051,33,0.6687,32,0.1626,66,0.1218,62,0.0837
+..\datasets\train\Crying\yDKz5An0qd0_000024_000034.mp4,64,64,97.1191,33,0.3139,32,0.1415,66,0.135,0,0.1192
+..\datasets\train\Crying\zQWdo_Er87M_000008_000018.mp4,64,64,87.0605,14,7.0923,33,0.457,50,0.436,66,0.4326
+..\datasets\train\Crying\ZrFW1iPMnig_000060_000070.mp4,64,64,98.5352,66,0.3185,54,0.1391,33,0.1267,49,0.0927
+..\datasets\train\Crying\zwOBqeFTgiU_000012_000022.mp4,64,64,76.2695,33,17.2852,46,0.4326,56,0.3424,24,0.3319
+..\datasets\train\Crying\_ceBK5pQTrs_000033_000043.mp4,64,64,97.5586,33,0.8705,32,0.1335,14,0.1274,66,0.0773
+..\datasets\train\Crying\_fVz9qyplBc_000078_000088.mp4,64,64,94.6777,33,1.5305,66,0.2171,14,0.1857,67,0.1515
+..\datasets\train\Crying\_k0fnTiKEMc_000077_000087.mp4,64,64,93.457,33,3.6804,66,0.5512,6,0.1309,54,0.0989
+..\datasets\train\Crying\_uPh9i-xaaE_000094_000104.mp4,64,64,98.0469,33,0.8888,32,0.1671,50,0.0498,66,0.0379
+..\datasets\train\Crying\_wRQiJdk2Rw_000004_000014.mp4,64,64,91.3086,33,2.2156,65,0.9453,66,0.6756,14,0.4501
+..\datasets\train\Falling down\fall-01-cam0-rgb.mp4,62,0,16.6382,62,8.4961,67,7.1533,45,6.5674,7,5.4871
+..\datasets\train\Falling down\fall-02-cam0-rgb.mp4,62,7,35.5957,67,4.4891,0,3.8696,45,3.6072,37,3.5797
+..\datasets\train\Falling down\fall-03-cam0-rgb.mp4,62,0,11.8469,45,11.8469,62,6.192,7,5.5939,35,5.4657
+..\datasets\train\Falling down\fall-04-cam0-rgb.mp4,62,7,21.0083,45,8.3557,62,5.0293,67,4.6875,0,3.8239
+..\datasets\train\Falling down\fall-05-cam0-rgb.mp4,62,0,15.6006,45,10.6323,62,5.7831,69,4.3976,35,4.1962
+..\datasets\train\Falling down\fall-06-cam0-rgb.mp4,62,7,21.7285,62,10.5896,66,8.2458,45,5.4077,69,4.2114
+..\datasets\train\Falling down\fall-07-cam0-rgb.mp4,62,7,12.0117,45,11.554,0,8.7219,62,7.5745,69,6.1371
+..\datasets\train\Falling down\fall-08-cam0-rgb.mp4,62,7,36.5723,45,8.1604,67,6.8176,62,5.3528,15,4.837
+..\datasets\train\Falling down\fall-09-cam0-rgb.mp4,62,0,13.9282,62,11.6394,45,7.5134,69,7.0618,7,6.4819
+..\datasets\train\Falling down\fall-10-cam0-rgb.mp4,62,7,22.4243,45,11.2793,67,8.3191,15,6.3293,62,4.8889
+..\datasets\train\Falling down\fall-11-cam0-rgb.mp4,62,45,18.7866,67,10.7056,7,9.1614,62,8.606,15,6.0059
+..\datasets\train\Falling down\fall-12-cam0-rgb.mp4,62,7,14.2212,45,13.3667,62,7.9773,67,7.2632,15,5.2734
+..\datasets\train\Falling down\fall-13-cam0-rgb.mp4,62,62,23.4375,0,10.4004,67,9.1797,69,5.9723,63,4.6509
+..\datasets\train\Falling down\fall-14-cam0-rgb.mp4,62,62,13.0981,7,12.2131,45,9.3628,0,7.6416,69,4.895
+..\datasets\train\Falling down\fall-15-cam0-rgb.mp4,62,0,14.1113,62,13.0493,45,12.6465,7,6.1188,69,5.3162
+..\datasets\train\Falling down\fall-16-cam0-rgb.mp4,62,45,17.0288,7,13.4766,62,11.4319,0,5.1941,67,3.772
+..\datasets\train\Falling down\fall-17-cam0-rgb.mp4,62,0,10.6384,45,10.2295,7,9.613,62,9.1003,35,7.782
+..\datasets\train\Falling down\fall-18-cam0-rgb.mp4,62,45,12.9517,7,8.6914,62,8.3618,0,8.0383,67,5.7465
+..\datasets\train\Falling down\fall-19-cam0-rgb.mp4,62,62,17.1875,0,13.5376,69,4.8462,67,3.9551,1,3.8177
+..\datasets\train\Falling down\fall-20-cam0-rgb.mp4,62,7,17.8345,62,12.5488,0,9.5459,45,6.0181,67,3.3234
+..\datasets\train\Falling down\fall-21-cam0-rgb.mp4,62,45,10.4431,62,10.1196,46,10.0403,0,9.436,47,6.5857
+..\datasets\train\Falling down\fall-22-cam0-rgb.mp4,62,7,13.0249,45,9.4604,62,8.4106,67,8.1543,0,6.2744
+..\datasets\train\Falling down\fall-23-cam0-rgb.mp4,62,62,16.2354,0,13.562,45,6.6101,69,6.5613,63,6.5125
+..\datasets\train\Falling down\fall-24-cam0-rgb.mp4,62,45,15.4175,62,8.1238,7,5.6305,1,4.776,0,4.5044
+..\datasets\train\Falling down\fall-25-cam0-rgb.mp4,62,62,13.9282,0,12.8784,45,12.4878,69,6.427,63,6.0394
+..\datasets\train\Falling down\fall-26-cam0-rgb.mp4,62,62,16.1255,45,11.7065,67,5.1544,69,4.657,7,4.306
+..\datasets\train\Falling down\fall-27-cam0-rgb.mp4,62,0,20.0928,62,12.3779,45,11.0107,46,5.1605,69,4.6997
+..\datasets\train\Falling down\fall-28-cam0-rgb.mp4,62,45,14.1846,62,13.4277,7,8.5999,67,4.9805,69,4.6417
+..\datasets\train\Falling down\fall-29-cam0-rgb.mp4,62,0,18.7134,45,13.6963,62,11.438,69,6.0272,63,4.2419
+..\datasets\train\Falling down\fall-30-cam0-rgb.mp4,62,62,17.688,45,8.2275,7,7.0923,67,4.95,0,4.4739
+..\datasets\train\Glass breaking\breaking_glass_1.mp4,56,56,28.1494,55,25.2197,52,25.2197,67,7.2266,60,1.3367
+..\datasets\train\Glass breaking\breaking_glass_2.mp4,56,23,28.2959,56,27.8564,21,10.907,52,6.311,55,5.2338
+..\datasets\train\Glass breaking\glass_break_1.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\glass_break_2.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\glass_break_3.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\glass_break_4.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\glass_break_5.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_007_d5cb28f674c6a53e8553499a58d776cf.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_010_d39ba26fef0985d0d8673eb0c3a20680.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_021_ed591cef512b508455115a2aef138cff.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_029_809d27b667b151eca0bd0eddd987d1c4.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_031_3c02e8e5d8e6b1418d99db6d315538e9.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_041_d33afde0de2acf62af3ccffbaef6b2a3.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_084_b09f52a98a49dd2b15e973503f7a0c7a.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_085_d3439ccb762e3ca64658fb718ad759e6.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_106_c0350d3ea60fe895d434678f8e5e93c5.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_123_b2f92db15d0488c29eabcb31a0c19b0e.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_133_47478d4e1e57ffcfdafc0f0d44afc1f6.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_134_f0e8808559de51919375259ae6bcabd1.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_152_b6fbf1dcf100211ff7160d6fe55ae1da.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_159_f83fd055358af544642b5fc3ece49e88.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_192_c15fb1103080ff542a231e5666d0ebda.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_195_1d058613c2d9963230f48a8d76b6dcff.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_216_6bc7ce3de687324fae214bcc3d9deb97.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_217_9440e3c6f20260dc148529910981819f.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_221_80319cb23891fbcf83123c2590bc1ef9.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_222_3a84a85f8da2c498588baf1352cbd840.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_236_695a49eb49bd0db7534c7a9ae13aad9d.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_247_0e1843a284cab188e6b07a799bf336ba.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_250_996579dfc2bdae6401586fe58628f67f.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_251_18742daaca944e44dff28088351addcf.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_268_db99c63a6dd1ae94717ec2162d2d848b.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_338_6c47116b98e3fbf4bebff8306d76c1e5.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_339_155373fd3ddf5a51e8cf6ca7118ba066.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_341_a46af6e9de2f6da4d6a1f39929fcbc66.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_342_a693427693d1adc1863508df0020a2a6.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_343_da7ea98de9655fa322090073b532de11.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_344_914db26a201e7a04c18e1b9a9486b0da.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_350_0195370dba6b2db52644a26b6d0a5d0e.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_351_3ead4ffc8296df2f1368913158ca0385.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_361_8a5af523d2523e4ceb78b3152e87a8b3.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_365_a57ea42783b0004878c7cfd0a52580ec.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_367_677bcdf30b880128cb72a58b4001c12b.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_385_f1353c6e4a3cdc2c6c47db9b81f11353.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_424_986fb6b13176cebb4c81e2dd9edda3ef.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_443_000b143bd21afde84ae6e8907628d244.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_445_49fe4921b063e1a0fd09212d1a777902.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_456_52eb80b72dd86bdc747baf2a5c4a1982.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_462_aead4cd34c41104585f6a1e1097c0af0.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_472_3c02e8e5d8e6b1418d99db6d315538e9.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_489_1e9aaa54548513a7b7786cfc96081d7a.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Glass breaking\mixture_evaltest_glassbreak_492_67d149ed57d3bc4b08a0ff329d797db9.wav,56,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_018_54726d75a93470398be935f067e04f68.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_042_262fde5f6abc5cef9abac6a23a6446c1.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_089_f7f54b99ef88a63a4a4b446bdd81605d.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_101_204292a65ead10e68c9356d14bfceca6.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_113_17cf9cd8beb5acaec026e2ec71adc2ac.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_117_17f0210c7068fc06bf184361326c7f14.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_150_2102148ef7867f0164c65a8554d6487e.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_151_4b399ccee4631026958ef22b7fb3f8b6.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_194_2f8712332da25804318a568476a87054.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_196_796df70596c8c2cc51778209fbdae35d.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_213_02e2c2cf3dd650e2cfcfa401157b88c7.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_217_3f9b00cf7172d45cf23f6142a90c21e1.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_218_3782064d387e20d38d3c45d7af263ce2.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_233_2127e0653a25b8819ed7e418fa7f2d24.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_263_5d6ca9ca4b3c54256ba6c247288fe19b.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_265_d985368362bf832c10c6f529969d39f2.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_280_7ccc0504e7a9a28ee4b363df257b0b28.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_299_7dd9c08d2915185b36dd923684078848.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_327_bdcb8a004594adefe5ee6a1d812a6ada.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_354_d0339f801fafac4621e351c70aac1b97.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_375_fa698e7fba20027bfc86d461eff5b7e5.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_398_fdbc79a9c7616fce58b4e6e8b7691127.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_408_0cc1186adeffec5ecb8e2aedc0ac5860.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_414_259bcc20aa36899e225998341d952201.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_423_0ceabd329fea9a7e7135e6da32b31d83.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_424_6bc7ce3de687324fae214bcc3d9deb97.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_425_4d014fb6ffee4603103492ae40df2c07.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_428_a57f792a50ffb934d4979a060bbd8a53.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_430_fcc2a04fb4c225afa830a348f0f578aa.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_436_8f71134a16bca0778609f7ee304b8226.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_441_e0da956f691e274817238d8d92b5dfbd.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_442_ec4f6e844246a7ace7defb0f9dadf3cb.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_448_89e80a662a6892e3c4ec9b40d1564204.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_451_7a8524ea1ad916ec5a2b005af07e0211.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_453_bc624b1e38cf9d8e6de76e728f1c7252.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_458_221b3a2322f4c8c04ee4ce0d58a0e26f.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_461_ba8e84a8770a9fbc5e4ac2995eccb668.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_462_e157f569db5a5099ab41098a727b0ca3.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_466_68ad378c08a63ff99140223e35dd0cab.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_471_9841bc2765e3b22bfae353e2dfb1e43c.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_473_d43023a9c8be3af808faaab32179e0e8.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_475_729037c3cf525e5796cb57c4fa4bebfb.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_479_96cfc9822829fc30ad17ee05458cf80f.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_480_758d54f0493a25aab43fa6f974ada751.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_486_53354a65d5caadc898096b57d095d6a0.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_489_cafb1875fc7030501fba04161a868f05.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_490_230f021c9f5fd6aabb17a7530e7313ad.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_491_b585a236d29f381e16d625b455063b3e.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_493_87b137fe3d06f960348a235c147666db.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Gunshot\mixture_evaltest_gunshot_497_f5ca6ab4416694b7aa1e973364683d7b.wav,60,-1,0,-1,0,-1,0,-1,0,-1,0
+..\datasets\train\Normal\9gK-lchw9AU_000019_000029.mp4,69,36,58.9844,11,9.9365,31,5.0751,33,4.4434,61,2.2003
+..\datasets\train\Normal\9iKBdRiyrT8_000018_000028.mp4,69,36,98.3887,11,0.1624,33,0.1207,51,0.0804,17,0.0744
+..\datasets\train\Normal\9j29_SoXvnk_000004_000014.mp4,69,17,97.6562,21,0.3414,36,0.1856,69,0.1236,33,0.1198
+..\datasets\train\Normal\9khsuBlB7KM_000052_000062.mp4,69,66,27.417,46,8.7585,54,3.7689,28,3.7109,23,2.6108
+..\datasets\train\Normal\9obe2uzQuLw_000031_000041.mp4,69,3,81.4453,2,3.6621,44,3.2593,30,1.2268,1,0.9262
+..\datasets\train\Normal\a2PzfV-nLA0_000273_000283.mp4,69,13,60.498,57,19.3359,12,5.1239,43,1.7166,58,1.4679
+..\datasets\train\Normal\A65W8cR_unk_000110_000120.mp4,69,8,84.0332,1,3.6346,65,0.5573,7,0.5489,31,0.4917
+..\datasets\train\Normal\a6RPzcU3bzA_000007_000017.mp4,69,28,94.1895,39,0.5867,42,0.4642,32,0.4295,21,0.345
+..\datasets\train\Normal\A7Th1TrWh8U_000086_000096.mp4,69,10,29.0527,26,6.4819,32,5.13,65,4.6692,34,3.1586
+..\datasets\train\Normal\AA-ZLdnX1mA_000060_000070.mp4,69,11,37.9395,12,7.2388,37,3.2623,45,2.0096,65,1.889
+..\datasets\train\Normal\adl-01-cam0-rgb.mp4,69,67,24.0601,28,12.6831,0,8.5815,62,7.3975,25,4.776
+..\datasets\train\Normal\adl-02-cam0-rgb.mp4,69,0,19.1162,28,19.1162,67,16.8701,25,5.3101,16,2.7771
+..\datasets\train\Normal\adl-03-cam0-rgb.mp4,69,67,50.0977,28,16.7847,0,4.6265,62,2.8717,25,2.037
+..\datasets\train\Normal\adl-04-cam0-rgb.mp4,69,67,13.0005,0,10.4492,62,9.5093,28,6.7444,63,6.4392
+..\datasets\train\Normal\adl-05-cam0-rgb.mp4,69,67,20.9717,28,11.0535,0,11.0535,25,8.606,16,5.2216
+..\datasets\train\Normal\adl-06-cam0-rgb.mp4,69,28,16.7969,67,16.0278,0,15.5396,16,5.0446,62,4.9652
+..\datasets\train\Normal\adl-07-cam0-rgb.mp4,69,67,21.6431,0,19.0918,28,13.6475,7,5.6885,25,3.3966
+..\datasets\train\Normal\adl-08-cam0-rgb.mp4,69,0,22.9126,67,21.0205,28,15.8691,25,4.2725,7,2.6733
+..\datasets\train\Normal\adl-09-cam0-rgb.mp4,69,67,20.1172,0,14.9536,28,14.27,62,5.5878,25,4.6326
+..\datasets\train\Normal\adl-10-cam0-rgb.mp4,69,0,17.3218,28,16.7847,67,13.4888,62,3.7445,7,3.4637
+..\datasets\train\Normal\adl-11-cam0-rgb.mp4,69,28,20.1172,67,15.5396,0,12.5854,62,3.9917,7,3.0838
+..\datasets\train\Normal\adl-12-cam0-rgb.mp4,69,62,7.7637,58,6.6406,35,6.4331,63,6.0913,0,5.2917
+..\datasets\train\Normal\adl-13-cam0-rgb.mp4,69,37,8.6853,58,8.2214,0,5.3925,35,4.6844,62,4.5044
+..\datasets\train\Normal\adl-14-cam0-rgb.mp4,69,37,10.0281,58,8.4473,35,5.9875,63,5.4535,0,5.0446
+..\datasets\train\Normal\adl-15-cam0-rgb.mp4,69,37,10.6873,35,10.0403,58,8.0688,62,6.0913,63,5.127
+..\datasets\train\Normal\adl-16-cam0-rgb.mp4,69,0,10.0708,35,8.3496,28,5.4779,58,5.4352,63,4.6112
+..\datasets\train\Normal\adl-17-cam0-rgb.mp4,69,58,10.8765,37,7.2449,35,6.7017,62,6.1005,28,5.3009
+..\datasets\train\Normal\adl-18-cam0-rgb.mp4,69,58,7.8125,35,7.5745,0,6.0852,62,4.8889,63,4.7394
+..\datasets\train\Normal\adl-19-cam0-rgb.mp4,69,35,10.9924,58,8.3618,62,6.2164,37,5.7953,63,5.0323
+..\datasets\train\Normal\adl-20-cam0-rgb.mp4,69,35,6.488,58,6.4392,0,5.8624,32,5.5054,37,5.4199
+..\datasets\train\Normal\adl-21-cam0-rgb.mp4,69,58,7.7637,35,5.722,0,5.6335,19,5.13,37,5.0507
+..\datasets\train\Normal\adl-22-cam0-rgb.mp4,69,58,9.4543,35,6.5979,19,4.6783,63,4.4647,37,4.4647
+..\datasets\train\Normal\adl-23-cam0-rgb.mp4,69,35,10.5164,0,5.7159,62,5.4962,58,5.1636,32,4.4861
+..\datasets\train\Normal\adl-24-cam0-rgb.mp4,69,7,22.876,0,9.1003,45,5.5176,62,5.307,23,3.0716
+..\datasets\train\Normal\adl-25-cam0-rgb.mp4,69,7,21.6064,0,19.8364,45,5.8624,62,4.3915,37,3.952
+..\datasets\train\Normal\adl-26-cam0-rgb.mp4,69,35,18.3105,0,13.7085,46,9.5703,45,5.6732,47,3.7781
+..\datasets\train\Normal\adl-27-cam0-rgb.mp4,69,0,22.2046,7,22.0215,45,8.1665,67,4.303,62,3.595
+..\datasets\train\Normal\adl-28-cam0-rgb.mp4,69,45,18.7012,0,8.429,62,6.2134,7,6.0242,35,5.484
+..\datasets\train\Normal\adl-29-cam0-rgb.mp4,69,7,35.0098,0,9.8755,45,7.1106,62,5.4108,67,4.248
+..\datasets\train\Normal\adl-30-cam0-rgb.mp4,69,62,25.0,0,12.9761,55,8.4412,67,7.5684,69,3.1052
+..\datasets\train\Normal\adl-31-cam0-rgb.mp4,69,62,9.8389,44,9.1736,0,8.4839,45,8.3496,23,7.843
+..\datasets\train\Normal\adl-32-cam0-rgb.mp4,69,62,16.748,0,11.7859,7,10.4797,44,5.6549,23,4.9133
+..\datasets\train\Normal\adl-33-cam0-rgb.mp4,69,67,14.5386,62,13.2446,0,11.5051,7,11.0596,23,10.8887
+..\datasets\train\Normal\adl-34-cam0-rgb.mp4,69,23,16.4307,62,12.3047,21,8.5205,67,7.2876,44,6.4331
+..\datasets\train\Normal\adl-35-cam0-rgb.mp4,69,0,14.1602,62,12.8906,23,11.554,67,5.0079,44,4.892
+..\datasets\train\Normal\adl-36-cam0-rgb.mp4,69,0,22.4243,67,7.9346,62,6.9458,46,6.0333,28,4.0833
+..\datasets\train\Normal\adl-37-cam0-rgb.mp4,69,0,25.7568,67,8.2336,46,5.7495,62,5.1544,23,3.4607
+..\datasets\train\Normal\adl-38-cam0-rgb.mp4,69,0,25.6592,67,14.6118,62,11.0291,55,5.4626,23,4.7455
+..\datasets\train\Normal\adl-39-cam0-rgb.mp4,69,0,19.2505,62,17.2607,67,8.0261,55,5.78,63,4.5746
+..\datasets\train\Normal\adl-40-cam0-rgb.mp4,69,0,23.0957,62,17.7002,55,8.0444,67,6.9885,63,2.9816
+..\datasets\train\Normal\admrQMs57JQ_000002_000012.mp4,69,22,95.752,21,0.4795,18,0.1683,57,0.1581,69,0.1556
+..\datasets\train\Normal\AdwS9UEt1Jg_000125_000135.mp4,69,14,11.2122,15,10.3699,0,8.3313,23,8.0139,21,7.6477
+..\datasets\train\Normal\ADzB-RTmLJU_000004_000014.mp4,69,21,59.375,23,26.3428,44,2.3026,67,1.0872,24,1.0376
+..\datasets\train\Normal\AG7rHLw-ckU_000301_000311.mp4,69,11,65.918,12,9.0637,36,3.7201,53,1.1169,29,1.1169
+..\datasets\train\Normal\AGmRgVcOLYA_000061_000071.mp4,69,23,93.75,21,4.248,0,0.2436,16,0.2398,24,0.1454
+..\datasets\train\Normal\AIrIuRyN5VA_000097_000107.mp4,69,36,23.877,51,7.3975,37,5.8075,59,4.5227,56,3.3875
+..\datasets\train\Normal\aKKNRI3PYYs_000130_000140.mp4,69,28,87.1582,48,1.0468,29,0.7198,55,0.5516,16,0.5432
+..\datasets\train\Normal\ALuLyCkzCt8_000060_000070.mp4,69,21,66.0156,23,17.4927,24,2.5986,0,1.0834,44,0.9712
+..\datasets\train\Normal\anDbHNhATAE_000039_000049.mp4,69,64,52.7344,33,17.5293,8,3.2959,66,2.5055,50,1.3519
+..\datasets\train\Normal\anzXsViG6wc_000370_000380.mp4,69,26,14.7217,56,8.9966,67,8.8623,44,7.0068,25,5.249
+..\datasets\train\Normal\AObYuoaz-7o_000245_000255.mp4,69,11,29.4434,12,15.271,13,3.2013,45,2.3788,7,2.0996
+..\datasets\train\Normal\aprcI6-IHmY_000146_000156.mp4,69,66,27.8564,26,6.1676,32,5.1544,8,4.0283,34,3.6835
+..\datasets\train\Normal\auSl2RAONs4_000007_000017.mp4,69,8,85.3516,1,2.6581,33,0.8904,65,0.811,7,0.6935
+..\datasets\train\Normal\AV4t72IYADk_000048_000058.mp4,69,22,83.6426,21,11.145,23,1.5083,26,0.5013,25,0.309
+..\datasets\train\Normal\AvgqtvtOgF4_000443_000453.mp4,69,25,29.3457,16,13.1226,31,4.6448,67,4.2267,34,3.5339
+..\datasets\train\Normal\aWEk9Sfs67c_000194_000204.mp4,69,3,91.748,2,4.0955,44,1.1024,1,0.4669,30,0.2787
+..\datasets\train\Normal\Awm6MWRRAa4_000222_000232.mp4,69,13,35.4004,57,33.252,58,5.5115,29,1.4839,11,0.9285
+..\datasets\train\Normal\AY1CsIuu3jg_000229_000239.mp4,69,13,60.2051,57,34.3018,58,0.4818,43,0.425,69,0.3469
+..\datasets\train\Normal\AYdyPzM8oL8_000004_000014.mp4,69,8,91.9434,1,2.063,42,0.3422,40,0.3265,7,0.2792
+..\datasets\train\Normal\B-SQ8cYQSMk_000222_000232.mp4,69,57,27.7344,13,22.644,21,5.13,60,2.8336,18,2.2064
+..\datasets\train\Normal\B9JqNr0e-Pw_000022_000032.mp4,69,13,53.0762,57,23.1812,58,3.5828,12,3.418,44,2.3682
+..\datasets\train\Normal\baf8O6sSMLI_000053_000063.mp4,69,10,98.8281,12,0.2161,28,0.1657,57,0.1104,43,0.0874
+..\datasets\train\Normal\BDbTkmhDM2A_000087_000097.mp4,69,13,56.4453,57,21.7529,43,8.9294,29,1.0017,11,0.6569
+..\datasets\train\Normal\BiqJ_FkwCUQ_000006_000016.mp4,69,28,14.2822,26,3.7842,43,3.7262,27,3.186,13,2.9007
+..\datasets\train\Normal\BjFtM8jhFoU_000008_000018.mp4,69,10,97.0703,12,1.2032,0,0.6145,57,0.1483,28,0.1051
+..\datasets\train\Normal\bKGIbOPMSPQ_000002_000012.mp4,69,21,37.8174,23,32.3486,44,4.3091,24,4.1138,28,2.417
+..\datasets\train\Normal\BL0sZO7hrIc_000427_000437.mp4,69,28,14.6484,39,4.9072,52,4.6112,56,4.541,43,3.7048
+..\datasets\train\Normal\bNRAN0wh0tc_000046_000056.mp4,69,11,37.6953,12,15.9668,1,2.4872,45,2.3727,7,2.0615
+..\datasets\train\Normal\BOc3MlonHb8_000075_000085.mp4,69,28,91.0156,39,1.0117,55,0.8003,52,0.4704,48,0.415
+..\datasets\train\Normal\bPfJAqym2vc_000019_000029.mp4,69,66,28.9307,33,6.1615,67,4.7241,44,3.8849,25,3.5095
+..\datasets\train\Normal\bPIP4BmjDAw_000070_000080.mp4,69,28,88.0859,48,1.0834,43,0.7744,35,0.7107,23,0.7107
+..\datasets\train\Normal\Bq0R48bHZnY_000412_000422.mp4,69,0,19.7998,67,11.4563,15,6.2286,63,6.131,16,5.4962
+..\datasets\train\Normal\bSG07EG2vu8_000007_000017.mp4,69,11,38.3545,12,28.9551,13,3.6255,57,1.4641,69,1.3756
+..\datasets\train\Normal\BSOYvQ1A7_s_000027_000037.mp4,69,13,41.8457,57,30.127,12,7.3853,43,3.3295,11,1.0643
+..\datasets\train\Normal\bt3ELWHiEds_000526_000536.mp4,69,10,10.9314,43,8.9233,11,6.9519,28,5.0049,13,3.8391
+..\datasets\train\Normal\btIe4SwFUhg_000080_000090.mp4,69,36,82.7148,12,8.1909,11,2.8305,1,0.3712,31,0.3225
+..\datasets\train\Normal\BvdknPz77Hs_000000_000010.mp4,69,66,12.2009,46,9.2102,25,6.6345,47,4.7791,26,3.8086
+..\datasets\train\Normal\BWqOCs4yVo4_000000_000010.mp4,69,22,85.3516,47,1.0742,21,0.8629,0,0.6027,2,0.5402
+..\datasets\train\Normal\BzcfW7JTsGM_000045_000055.mp4,69,17,98.0957,61,0.1595,35,0.1302,19,0.1243,55,0.1185
+..\datasets\train\Normal\BZOSTgHGUCE_000229_000239.mp4,69,28,50.3906,39,5.7434,42,5.481,8,4.5441,16,3.2227
+..\datasets\train\Normal\c1o7820XyTI_000310_000320.mp4,69,67,18.0786,15,12.7197,49,7.135,62,6.5002,14,5.3864
+..\datasets\train\Normal\C3ayjYkczC4_000060_000070.mp4,69,8,63.623,1,3.7628,64,2.7527,65,2.1774,54,1.3206
+..\datasets\train\Normal\C45UEQ5Oxno_000075_000085.mp4,69,22,98.1934,21,0.1957,25,0.1186,18,0.0754,16,0.0742
+..\datasets\train\Normal\c729EVAFb_s_000415_000425.mp4,69,13,61.9141,57,16.1499,43,5.1636,51,0.8293,29,0.7732
+..\datasets\train\Normal\caz61OyDs1k_000045_000055.mp4,69,28,73.8281,6,4.538,16,2.3911,55,2.2125,23,1.4061
+..\datasets\train\Normal\cbXmtG99SU0_000000_000010.mp4,69,8,37.8906,33,14.8315,7,5.3741,31,4.7424,1,3.6926
+..\datasets\train\Normal\cc4YIsJz5sg_000002_000012.mp4,69,28,21.0938,0,10.2783,62,5.8105,16,4.4891,15,3.9001
+..\datasets\train\Normal\cCJdUn_Dv2M_000181_000191.mp4,69,36,81.7383,59,1.8066,32,1.3214,61,1.3008,11,0.9224
+..\datasets\train\Normal\CdtDTYW5YOs_000117_000127.mp4,69,10,94.2383,43,1.4992,28,0.9682,57,0.4646,12,0.4433
+..\datasets\train\Normal\CeYIbLlRVVg_000357_000367.mp4,69,13,53.3203,57,26.3916,43,11.084,58,0.5604,12,0.5432
+..\datasets\train\Normal\CfP4T-QKX4U_000332_000342.mp4,69,66,27.7832,64,8.0261,33,7.7148,46,3.9429,23,2.4277
+..\datasets\train\Normal\cgB_HnWGY9Y_000001_000011.mp4,69,28,88.1836,55,1.1452,35,0.8644,48,0.7996,16,0.7748
+..\datasets\train\Normal\CGQfpj5Q2XA_000026_000036.mp4,69,23,89.1113,21,8.0322,24,0.4463,0,0.2464,19,0.1694
+..\datasets\train\Normal\cGuxUVfBZ20_000050_000060.mp4,69,8,89.8926,1,1.9852,33,0.655,65,0.4791,7,0.3849
+..\datasets\train\Normal\ChRYSf_9SoM_000035_000045.mp4,69,17,23.584,11,8.6121,51,5.0232,59,4.6082,0,4.4678
+..\datasets\train\Normal\CLGYN3I3nIY_000039_000049.mp4,69,10,89.6973,67,1.5671,57,1.3618,28,0.9216,43,0.7523
+..\datasets\train\Normal\CLj6957VkZg_000041_000051.mp4,69,17,98.7793,21,0.1532,51,0.0555,11,0.0446,33,0.0419
+..\datasets\train\Normal\CM3tD22RxB8_000004_000014.mp4,69,22,96.6797,21,0.2323,16,0.205,33,0.1699,18,0.1673
+..\datasets\train\Normal\CqPXNz7YDYM_000007_000017.mp4,69,28,17.4072,52,4.4708,54,2.7542,39,2.6703,29,2.5879
+..\datasets\train\Normal\cRg6xZpmBrI_000404_000414.mp4,69,36,95.2637,11,1.4465,51,0.3716,29,0.308,17,0.2634
+..\datasets\train\Normal\csQSjmHhsXA_000018_000028.mp4,69,57,33.8867,13,27.2461,10,9.1248,60,4.7699,12,2.4948
+..\datasets\train\Normal\CtDdx-V3J7M_000074_000084.mp4,69,3,93.8477,41,1.918,44,0.6325,19,0.5756,2,0.428
+..\datasets\train\Normal\cThgCWwzvU8_000015_000025.mp4,69,22,98.1934,21,0.2287,18,0.1955,16,0.0828,57,0.0655
+..\datasets\train\Normal\CTZETRzQWOU_000031_000041.mp4,69,10,95.8008,12,1.8967,43,0.2567,57,0.1606,28,0.144
+..\datasets\train\Normal\CyqaeqsCKMU_000050_000060.mp4,69,17,98.0957,21,0.1724,11,0.1113,51,0.0854,69,0.073
+..\datasets\train\Normal\D6M-1uemZTU_000152_000162.mp4,69,10,95.9473,28,0.8972,43,0.6264,0,0.473,12,0.4585
+..\datasets\train\Normal\d7Ggedw-sOM_001169_001179.mp4,69,36,70.2148,59,12.0117,51,2.8519,31,1.1986,29,0.9262
+..\datasets\train\Normal\D7lm7hLSM0I_000034_000044.mp4,69,8,87.0605,1,1.2817,32,1.03,7,0.9827,28,0.6649
+..\datasets\train\Normal\dfULz-lLaDc_000002_000012.mp4,69,57,30.2734,13,19.5435,23,4.1626,43,4.0344,55,2.951
+..\datasets\train\Normal\DFX28NEFY38_000157_000167.mp4,69,13,26.6602,57,23.5229,55,7.1716,43,3.3875,11,2.9434
+..\datasets\train\Normal\DkZml-dK0pU_000043_000053.mp4,69,28,78.6133,48,1.3313,39,1.2123,55,1.1749,29,1.0536
+..\datasets\train\Normal\DLhpyADKYKM_000184_000194.mp4,69,21,28.8818,23,13.855,24,8.4045,68,6.4453,39,3.421
+..\datasets\train\Normal\dlK1QS-Aofs_000066_000076.mp4,69,14,12.1887,15,8.5083,0,6.9458,67,6.8359,28,4.2786
+..\datasets\train\Normal\dMBlXTR3qQU_000187_000197.mp4,69,0,13.501,67,8.7158,15,7.8125,14,5.899,21,4.6661
+..\datasets\train\Normal\dndkqyk45Ks_000015_000025.mp4,69,28,86.3281,39,2.301,42,0.7587,32,0.6748,69,0.5135
+..\datasets\train\Normal\DNWCjFUE75s_000289_000299.mp4,69,25,69.6289,28,5.9906,67,3.5492,39,2.7222,16,2.6581
+..\datasets\train\Normal\dsnkk1tytpE_000066_000076.mp4,69,28,92.6758,16,0.5341,39,0.5096,55,0.436,48,0.436
+..\datasets\train\Normal\dxBH1r8To3Y_000010_000020.mp4,69,3,88.0371,30,1.9608,2,1.9302,44,1.091,1,1.0826
+..\datasets\train\Normal\dXOxzXI-psA_000017_000027.mp4,69,3,63.4277,33,16.04,2,6.5796,30,2.2751,64,1.5388
+..\datasets\train\Normal\e-xCuXyO1w0_000122_000132.mp4,69,0,16.1743,21,7.5806,28,5.8136,24,5.5908,67,5.4626
+..\datasets\train\Normal\E4sSE4n7AIY_000617_000627.mp4,69,67,27.6367,25,23.645,28,14.0015,16,5.2734,0,3.8605
+..\datasets\train\Normal\e6knPRich_k_000053_000063.mp4,69,3,95.1172,2,2.0691,44,0.7149,30,0.2651,0,0.1534
+..\datasets\train\Normal\e7MT8cHYxls_000016_000026.mp4,69,3,93.1152,2,1.5289,44,0.8308,1,0.7935,41,0.5493
+..\datasets\train\Normal\eDegjR0YmXE_000102_000112.mp4,69,10,58.3008,12,27.124,0,2.4841,21,1.8173,57,1.4832
+..\datasets\train\Normal\eJfnOEeJpM0_000044_000054.mp4,69,57,36.0107,13,24.3652,55,4.95,23,3.0502,43,2.1286
+..\datasets\train\Normal\ENKtS5yCT2o_000053_000063.mp4,69,13,24.2554,57,21.4111,58,17.4805,56,2.8534,20,2.0233
+..\datasets\train\Normal\EQViTe9m1Hw_000112_000122.mp4,69,25,22.8149,44,7.2876,67,6.2347,28,5.9967,55,5.8136
+..\datasets\train\Normal\ew7MSTTFMeg_000272_000282.mp4,69,10,78.7598,12,19.2993,0,0.2626,11,0.1594,67,0.152
+..\datasets\train\Normal\F1KA2nf-C9M_000133_000143.mp4,69,0,10.1013,14,9.0515,65,7.2754,67,6.2225,28,6.1249
+..\datasets\train\Normal\f3DMBH9EJNI_000007_000017.mp4,69,43,8.4106,13,5.78,28,5.6915,57,4.8676,54,4.2969
+..\datasets\train\Normal\F621wrqXp34_000036_000046.mp4,69,3,80.2734,2,6.8542,30,2.2949,44,1.8585,34,1.0925
+..\datasets\train\Normal\FJ8M6LK6evw_000022_000032.mp4,69,3,94.7754,2,2.9999,44,0.7469,30,0.4459,1,0.0652
+..\datasets\train\Normal\FJljds1AA2o_000016_000026.mp4,69,36,68.0664,31,10.1196,11,4.1534,33,4.0863,50,3.4424
+..\datasets\train\Normal\gem1VWkzae8_000875_000885.mp4,69,25,36.1084,67,8.9905,16,6.9458,61,3.9581,44,3.3325
+..\datasets\train\Normal\Gf5htdt_Djg_000107_000117.mp4,69,13,19.0063,57,9.8572,69,3.5156,55,3.4058,58,2.8458
+..\datasets\train\Normal\gmE90XbBgOk_000000_000010.mp4,69,11,58.9844,12,3.7689,33,2.9816,64,2.8458,69,2.0813
+..\datasets\train\Normal\GnXROFauJVY_000026_000036.mp4,69,36,69.1406,29,6.2347,56,2.33,18,2.2583,30,1.7044
+..\datasets\train\Normal\H89ENzVtnlg_000095_000105.mp4,69,13,19.1284,57,10.0769,58,4.2023,56,3.4821,69,2.9785
+..\datasets\train\Normal\HJqSjhNOMjY_000143_000153.mp4,69,13,57.0312,57,16.333,12,2.3178,20,1.7899,69,1.3512
+..\datasets\train\Normal\hM8CfzDDyIg_000158_000168.mp4,69,57,22.5708,13,21.2036,10,7.0984,58,4.2389,20,3.6255
+..\datasets\train\Normal\hQ4OpC2RuLY_000120_000130.mp4,69,12,50.9277,11,14.3677,33,2.0386,45,1.6632,13,1.3367
+..\datasets\train\Normal\hxyttQsXwOc_000079_000089.mp4,69,17,97.6074,36,0.2237,11,0.1855,33,0.1255,51,0.1125
+..\datasets\train\Normal\i70NodYlh7E_000336_000346.mp4,69,36,74.7559,29,4.5624,59,2.2232,31,1.2085,50,1.0017
+..\datasets\train\Normal\IGHpI5LRzuk_000054_000064.mp4,69,17,95.8496,11,0.404,59,0.3796,21,0.3298,51,0.2163
+..\datasets\train\Normal\IKG6W6LmSlw_000000_000010.mp4,69,17,98.2422,21,0.2115,11,0.1244,69,0.072,36,0.0625
+..\datasets\train\Normal\JpgvBLEoGPY_000008_000018.mp4,69,13,32.9102,57,24.8413,51,12.1094,43,3.2074,59,2.1378
+..\datasets\train\Normal\Jvx3wT69CVI_000460_000470.mp4,69,57,29.0283,13,16.5405,11,6.7932,56,5.719,55,4.5227
+..\datasets\train\Normal\k088TLn7oIU_000090_000100.mp4,69,22,98.0469,18,0.2178,21,0.1952,57,0.1281,25,0.1113
+..\datasets\train\Normal\KCk7JLKqICc_000068_000078.mp4,69,25,37.7197,67,18.103,28,9.3933,16,9.2468,55,2.7115
+..\datasets\train\Normal\kCyv6z2yar4_000002_000012.mp4,69,22,96.9238,21,0.2365,16,0.2188,18,0.2087,25,0.1327
+..\datasets\train\Normal\kW5BmCKH248_000447_000457.mp4,69,57,38.9404,13,31.2988,36,6.1615,55,1.3016,31,1.0056
+..\datasets\train\Normal\KY3dD8VcGnM_000022_000032.mp4,69,36,30.1758,12,7.1655,13,5.4932,51,5.4077,30,5.3253
+..\datasets\train\Normal\L0gZURkoVtM_000056_000066.mp4,69,12,29.541,36,24.1089,10,4.8981,59,2.4246,58,2.3499
+..\datasets\train\Normal\lCZLHNyUiMo_000003_000013.mp4,69,22,84.6191,67,0.9697,21,0.8827,69,0.869,7,0.8293
+..\datasets\train\Normal\Ll6b1B9YDgM_000032_000042.mp4,69,10,16.4185,16,12.2009,26,7.8796,36,7.5134,28,5.6732
+..\datasets\train\Normal\N5n6j6vBGu0_000008_000018.mp4,69,66,52.2949,64,12.8174,34,2.5238,14,2.3712,44,1.519
+..\datasets\train\Normal\oeguonb5OA0_000004_000014.mp4,69,28,14.6484,43,13.7695,29,8.8867,48,3.8208,55,3.3722
+..\datasets\train\Normal\oLPzKb6j80U_000009_000019.mp4,69,28,20.3125,43,4.7516,13,3.5309,55,2.9266,8,2.7496
+..\datasets\train\Normal\OmBlRJEoY9s_000088_000098.mp4,69,11,16.4795,43,7.6599,28,4.9469,57,4.8706,13,4.3671
+..\datasets\train\Normal\oUc6ZrEBL80_000519_000529.mp4,69,25,23.3765,0,11.7554,67,11.3953,56,4.9011,39,3.9368
+..\datasets\train\Normal\P6AChrs1Txo_000187_000197.mp4,69,28,11.1938,13,9.4299,43,7.8125,57,5.8075,29,4.3152
+..\datasets\train\Normal\P8amgAResD4_000279_000289.mp4,69,46,37.085,47,11.6699,43,6.5491,35,4.5349,25,4.2938
+..\datasets\train\Normal\pz28ycbJiQc_000002_000012.mp4,69,33,64.8438,66,3.3813,69,2.594,62,1.5244,42,1.5244
+..\datasets\train\Normal\PzhivDBg9F0_000016_000026.mp4,69,12,43.8232,13,11.4319,57,10.4126,10,6.4148,43,3.83
+..\datasets\train\Normal\QAKwGG98wvc_000020_000030.mp4,69,22,97.8027,21,0.2541,25,0.201,26,0.1918,16,0.1733
+..\datasets\train\Normal\rLQ5fmVSL94_000026_000036.mp4,69,67,57.959,25,25.3174,16,2.1439,0,2.1103,55,1.2703
+..\datasets\train\Normal\X46EhfXTqxg_000727_000737.mp4,69,25,13.5254,16,4.6356,44,4.4586,67,4.2542,55,4.0588
+..\datasets\train\Normal\_0xvqLRQvOA_000074_000084.mp4,69,65,15.7959,62,11.2854,67,9.8816,15,8.7219,28,7.7576
+..\datasets\train\Normal\_3vZKUxeQtg_000298_000308.mp4,69,11,41.8457,12,19.458,17,2.15,36,1.7273,33,1.6998
+..\datasets\train\Normal\_4EOMgSAs2o_000094_000104.mp4,69,8,94.2871,1,1.432,33,0.4948,65,0.2649,31,0.2489
+..\datasets\train\Normal\_5ItAUGPgqI_000742_000752.mp4,69,13,55.2734,57,24.9146,43,3.1677,12,1.4503,69,1.0361
+..\datasets\train\Normal\_82X-ic2kME_000001_000011.mp4,69,17,95.8496,11,0.544,21,0.2651,69,0.1822,51,0.1711
+..\datasets\train\Normal\_8w7SkEkehQ_000037_000047.mp4,69,13,55.8105,57,27.1973,69,1.4648,47,1.123,58,0.8476
+..\datasets\train\Normal\_99gyAUUgy4_000051_000061.mp4,69,17,98.1445,69,0.2131,28,0.1204,21,0.1131,18,0.0953
+..\datasets\train\Normal\_A0_T6M6ULQ_000004_000014.mp4,69,23,50.8789,21,37.2314,22,2.1011,16,1.0651,25,0.8896
+..\datasets\train\Normal\_cMswRMB3WU_000124_000134.mp4,69,23,83.0566,21,14.6606,24,0.2192,44,0.1845,0,0.176
+..\datasets\train\Normal\_cOAB4Neu5Q_000237_000247.mp4,69,13,15.4175,57,12.7808,55,5.4962,69,3.6621,51,2.8076
+..\datasets\train\Normal\_fDxRDV_D28_000077_000087.mp4,69,28,12.6343,17,4.0375,13,3.6774,43,3.3478,10,2.9999
+..\datasets\train\Normal\_hnn0Q5Ee0g_000037_000047.mp4,69,17,96.1914,21,0.3363,33,0.1638,11,0.1613,69,0.1358
+..\datasets\train\Normal\_jSACF07scs_000041_000051.mp4,69,8,67.1875,33,5.4718,31,5.0201,50,3.1174,32,2.3529
+..\datasets\train\Normal\_JuSKnGWkp0_000230_000240.mp4,69,36,91.8457,31,1.9669,30,0.9735,11,0.6535,1,0.4456
+..\datasets\train\Normal\_Kcgee5kKS0_000057_000067.mp4,69,66,27.6611,22,6.4148,14,5.1544,7,3.7994,45,3.4058
+..\datasets\train\Normal\_L2i7A8dMTg_000020_000030.mp4,69,10,35.5713,57,9.8755,16,7.6904,11,4.6661,25,4.5227
+..\datasets\train\Normal\_ONRAEcQsqw_000101_000111.mp4,69,21,47.6318,23,35.4004,24,2.6459,16,1.8463,25,1.7899
+..\datasets\train\Normal\_P7OzblP4KU_000002_000012.mp4,69,22,97.4609,21,0.473,18,0.1609,25,0.0991,55,0.0809
+..\datasets\train\Normal\_Q5f75CvNfw_000103_000113.mp4,69,11,57.0312,12,6.5002,45,2.2476,65,2.0142,37,1.7502
+..\datasets\train\Normal\_SlPWSA-1bU_000144_000154.mp4,69,67,17.9321,0,12.323,15,8.4717,10,7.2998,52,5.1788
+..\datasets\train\Normal\_SsAvyBagZw_000011_000021.mp4,69,8,89.4043,1,2.6581,14,0.5318,7,0.4547,37,0.3891
+..\datasets\train\Normal\_TqghEKOFAQ_000045_000055.mp4,69,3,89.9414,44,4.0131,2,3.4332,30,0.4948,41,0.1395
+..\datasets\train\Normal\_WijOegXa_Q_000391_000401.mp4,69,11,60.9375,12,7.9956,31,3.0334,30,2.4765,33,1.9287
+..\datasets\train\Smoke or Fire or Open flame\posVideo1.868.mp4,58,58,58.3984,57,6.4026,13,3.1921,67,3.0716,52,2.6688
+..\datasets\train\Smoke or Fire or Open flame\posVideo10.869.mp4,58,58,30.2979,67,12.2437,68,4.2297,25,3.3203,64,2.8397
+..\datasets\train\Smoke or Fire or Open flame\posVideo11.870.mp4,58,58,62.1582,53,3.8513,60,3.7323,47,1.8188,45,1.7349
+..\datasets\train\Smoke or Fire or Open flame\posVideo2.871.mp4,58,57,29.0283,58,24.8169,13,18.1641,21,2.42,22,2.3819
+..\datasets\train\Smoke or Fire or Open flame\posVideo3.872.mp4,58,58,60.4004,13,4.3732,57,4.2389,43,2.066,59,1.0719
+..\datasets\train\Smoke or Fire or Open flame\posVideo4.873.mp4,58,58,78.5156,29,1.6953,43,1.3405,12,1.3405,28,1.2596
+..\datasets\train\Smoke or Fire or Open flame\posVideo5.874.mp4,58,58,70.4102,13,6.5491,57,3.7292,12,3.5614,43,1.6434
+..\datasets\train\Smoke or Fire or Open flame\posVideo6.875.mp4,58,58,74.1699,52,2.5375,57,2.24,67,2.0233,27,1.4236
+..\datasets\train\Smoke or Fire or Open flame\posVideo7.876.mp4,58,58,86.3281,52,1.5808,24,0.8461,57,0.7469,43,0.6489
+..\datasets\train\Smoke or Fire or Open flame\posVideo8.877.mp4,58,58,97.3145,59,0.8034,13,0.2249,57,0.1984,64,0.0765
+..\datasets\train\Smoke or Fire or Open flame\posVideo9.878.mp4,58,58,60.5957,57,4.126,29,3.5278,13,3.3142,67,2.6627
+..\datasets\train\Smoke or Fire or Open flame\Video102.mp4,58,58,92.334,60,0.6569,52,0.4112,59,0.3304,48,0.3304
+..\datasets\train\Smoke or Fire or Open flame\Video109.mp4,58,58,71.8262,52,2.4185,65,1.2451,57,1.1513,53,1.1337
+..\datasets\train\Smoke or Fire or Open flame\Video11.mp4,58,58,31.25,35,6.1035,45,5.0598,56,5.0232,67,4.5013
+..\datasets\train\Smoke or Fire or Open flame\Video115.mp4,58,58,43.5547,67,4.6997,60,3.1311,53,2.4567,57,2.4384
+..\datasets\train\Smoke or Fire or Open flame\Video134_1.mp4,58,58,15.9058,52,13.3911,67,9.6436,60,3.5492,57,3.2806
+..\datasets\train\Smoke or Fire or Open flame\Video136.mp4,58,58,46.0693,52,5.0079,48,3.9612,67,3.3875,60,1.9928
+..\datasets\train\Smoke or Fire or Open flame\Video14.mp4,58,57,19.7754,56,14.1846,10,9.8633,13,6.6223,12,6.1493
+..\datasets\train\Smoke or Fire or Open flame\Video149.mp4,58,58,50.2441,67,10.4431,25,6.0455,55,4.6722,57,3.7537
+..\datasets\train\Smoke or Fire or Open flame\Video150.mp4,58,58,28.2959,67,15.1489,68,3.3264,64,3.2501,25,2.7161
+..\datasets\train\Smoke or Fire or Open flame\Video157.mp4,58,58,29.0771,56,10.6934,67,6.5918,21,5.9998,44,3.9978
+..\datasets\train\Smoke or Fire or Open flame\Video170.mp4,58,58,28.8086,52,7.2876,63,4.1504,65,4.1504,29,3.9612
+..\datasets\train\Smoke or Fire or Open flame\Video202.mp4,58,58,21.875,67,10.0159,55,3.8025,57,3.5156,68,3.302
+..\datasets\train\Smoke or Fire or Open flame\Video209.mp4,58,56,12.6099,25,12.4695,16,9.1919,58,6.3171,67,6.1249
+..\datasets\train\Smoke or Fire or Open flame\Video21.mp4,58,58,52.2949,57,6.8604,67,4.5013,13,3.3173,52,2.5436
+..\datasets\train\Smoke or Fire or Open flame\Video234.mp4,58,58,47.5342,52,4.2206,60,4.187,7,2.6413,42,2.4231
+..\datasets\train\Smoke or Fire or Open flame\Video239.mp4,58,58,66.9434,67,6.5247,28,2.1179,13,1.6754,57,1.6495
+..\datasets\train\Smoke or Fire or Open flame\Video257.mp4,58,58,33.7646,48,27.9785,35,6.0059,29,2.0752,42,1.6541
+..\datasets\train\Smoke or Fire or Open flame\Video37.mp4,58,58,51.6113,67,7.4951,57,3.5126,56,3.4332,52,3.1006
+..\datasets\train\Smoke or Fire or Open flame\Video51.mp4,58,23,47.1924,0,23.5474,22,10.9497,21,2.3682,16,1.2482
+..\datasets\train\Smoke or Fire or Open flame\Video67.mp4,58,58,27.1484,67,8.6792,52,6.0577,60,5.8716,55,4.1626
+..\datasets\train\Smoke or Fire or Open flame\Video73.mp4,58,58,66.7969,24,4.7638,67,4.2389,52,2.9129,57,2.5696
+..\datasets\train\Smoke or Fire or Open flame\Video74.mp4,58,58,74.4141,47,2.7313,46,1.9821,67,1.3206,52,1.078
+..\datasets\train\Smoke or Fire or Open flame\Video75_1.mp4,58,52,14.4043,58,13.7451,55,8.7341,53,6.0974,48,6.0028
+..\datasets\train\Smoke or Fire or Open flame\Video75_2.mp4,58,52,14.1235,55,9.7046,3,6.2622,67,5.8838,53,5.2765
+..\datasets\train\Smoke or Fire or Open flame\Video78.mp4,58,58,95.0195,59,0.5516,57,0.4166,67,0.3481,48,0.3244
+..\datasets\train\Smoke or Fire or Open flame\Video82.mp4,58,58,13.4766,55,7.5562,57,6.366,60,5.6183,21,4.3732
+..\datasets\train\Smoke or Fire or Open flame\Video85.mp4,58,58,58.6914,55,5.7648,56,3.5248,52,3.4149,67,3.363
+..\datasets\train\Smoke or Fire or Open flame\Video91.mp4,58,58,55.9082,52,6.3721,67,5.5817,54,2.9633,55,2.1179
+..\datasets\train\Smoke or Fire or Open flame\Video99.mp4,58,58,29.8096,67,21.814,60,6.3477,55,2.8168,57,2.7298
