@@ -126,7 +126,7 @@ def prepare_vclip(class_labels):
     return model, pipeline
 
 def inference_vclip(file_path, model, pipeline):
-    if file_path.endswith(".mp4"):
+    if file_path.endswith(".mp4") or file_path.endswith(".avi"):
         video_path = file_path
     else: 
         print(f"This file {file_path} has no video!")
@@ -198,7 +198,7 @@ def inference_clap(file_path, class_labels):
 
 if __name__ == "__main__":
     # Input video
-    file_path = 'datasets/train/Glass breaking/breaking_glass_2.mp4'
+    file_path = 'datasets/test/v_BabyCrawling_g10_c04.avi'
 
     # Class label csv path
     labels_csv_path = 'datasets/home_labels.csv'
