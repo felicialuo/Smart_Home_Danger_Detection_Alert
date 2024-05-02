@@ -52,71 +52,70 @@ def get_predictions(audio_filename, window_size = 2, sample_rate = 16000):
             server_socket.bind((bind_ip, bind_port))
             server_socket.listen(1)
             print("Server is listening for connections...")
+            # Accept a client connection
+            conn, addr = server_socket.accept()
+            print(f"Connection attempted from {addr[0]}")
+
+            # Check if the connection is from the allowed IP
+            # if addr[0] == allowed_ip:
+                # print(f"Connected by {addr}")
+                with open('received_output.wav', 'wb') as f:
+                    while True:
+                        data = conn.recv(1024)
+                        if not data:
+                            break
+                        f.write(data)
+
+                print("File received successfully.")
     
-            while True:
-                # Accept a client connection
-                conn, addr = server_socket.accept()
-                print(f"Connection attempted from {addr[0]}")
+            # Extract audio embeddings
+            audio_embeddings = clap_model.get_audio_embeddings([audio_filename])
+            # Compute similarity between audio and text embeddings
+            similarities = clap_model.compute_similarity(audio_embeddings, text_embeddings)
     
-                # Check if the connection is from the allowed IP
-                # if addr[0] == allowed_ip:
-                    # print(f"Connected by {addr}")
-                with conn:
-                    with open('received_output.wav', 'wb') as f:
-                        while True:
-                            data = conn.recv(1024)
-                            if not data:
-                                break
-                            f.write(data)
+            similarity = F.softmax(similarities, dim=1)
+            values, indices = similarity[0].topk(5)
     
-                    print("File received successfully.")
+            detected = False
+            clap_results = []
+            output_label = ""
+            print("\nCLAP predictions:")
+            for value, index in zip(values, indices):
+                index = index.item()
+                value = round(value.item() * 100, 4)
+                clap_results.append(index)
+                clap_results.append(value)
+                print(id2label[index], value)
+                if id2label[index] in ["Crying", "Gunshot", "Glass breaking"] and value > 50: 
+                    print(f"ALERT: {id2label[index]} detected!")
+                    detected = True
+                    output_label = id2label[index]
+                    break
+                
+            # Ensemble
+            if not detected:
+                vclip_results = [-1, 0] * 5
+                trained_ensemble = joblib.load('trained_RF_ensemble.joblib')
+                X_test = np.expand_dims(np.hstack([vclip_results, clap_results]), axis=0)
     
-                    response_message = "Thank you, file received!"
+                y_pred = trained_ensemble.predict(X_test)
+                print("\nEmsemble prediction:", id2label[y_pred[0]])
+                if id2label[y_pred[0]] in ["Crying", "Gunshot", "Glass breaking"]: 
+                    print(f"ALERT: {id2label[y_pred[0]]} detected!")
+                    output_label = id2label[y_pred[0]]
+                    
     
-                    # Send a confirmation message back to the client
-                    conn.sendall(response_message.encode('utf-8'))
+    
+            os.remove(audio_filename) 
 
-        # Extract audio embeddings
-        audio_embeddings = clap_model.get_audio_embeddings([audio_filename])
-        # Compute similarity between audio and text embeddings
-        similarities = clap_model.compute_similarity(audio_embeddings, text_embeddings)
-
-        similarity = F.softmax(similarities, dim=1)
-        values, indices = similarity[0].topk(5)
-
-        detected = False
-        clap_results = []
-        print("\nCLAP predictions:")
-        for value, index in zip(values, indices):
-            index = index.item()
-            value = round(value.item() * 100, 4)
-            clap_results.append(index)
-            clap_results.append(value)
-            print(id2label[index], value)
-            if id2label[index] in ["Crying", "Gunshot", "Glass breaking"] and value > 50: 
-                print(f"ALERT: {id2label[index]} detected!")
-                detected = True
-                break
-            
-        # Ensemble
-        if not detected:
-            vclip_results = [-1, 0] * 5
-            trained_ensemble = joblib.load('trained_RF_ensemble.joblib')
-            X_test = np.expand_dims(np.hstack([vclip_results, clap_results]), axis=0)
-
-            y_pred = trained_ensemble.predict(X_test)
-            print("\nEmsemble prediction:", id2label[y_pred[0]])
-            if id2label[y_pred[0]] in ["Crying", "Gunshot", "Glass breaking"]: 
-                print(f"ALERT: {id2label[y_pred[0]]} detected!")
-
-
-        os.remove(audio_filename) 
-        # if detected:
-        #     filename = f"recording_{int(time.time())}.wav"
-        #     os.rename(temp_filename, filename)
-        #     print(f"Alert! Glass breaking detected in {filename}")
-        # else:
-        #     os.remove(temp_filename) 
+            # Send a confirmation message back to the client
+            conn.sendall(output_label.encode('utf-8'))
+            # if detected:
+            #     filename = f"recording_{int(time.time())}.wav"
+            #     os.rename(temp_filename, filename)
+            #     print(f"Alert! Glass breaking detected in {filename}")
+            # else:
+            #     os.remove(temp_filename) 
 
 
 
