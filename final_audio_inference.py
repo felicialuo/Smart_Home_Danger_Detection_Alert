@@ -121,7 +121,7 @@ def get_predictions(audio_filename, window_size = 2, sample_rate = 16000):
 
 
 if __name__ == "__main__":
-    
+    audio_filename = "received_output.wav"
     get_predictions(audio_filename, window_size = 2, sample_rate = 16000)
 
     
