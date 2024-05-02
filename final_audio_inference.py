@@ -14,7 +14,7 @@ import queue
 from IPython.display import display, clear_output
 import csv
 import joblib
-
+import socket
 
 def get_labels(csv_path='datasets/home_labels.csv'):
     label2id = {}
@@ -43,7 +43,38 @@ def get_predictions(audio_filename, window_size = 2, sample_rate = 16000):
 
     print("Listening...")
 
-    while True:    
+    while True:   
+        LOCAL_IP = '0.0.0.0'  # Listen on all network interfaces
+        PORT = 50007
+        # REMOTE_IP = '192.168.1.154'
+        REMOTE_IP = "172.26.128.166"
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as server_socket:
+            server_socket.bind((bind_ip, bind_port))
+            server_socket.listen(1)
+            print("Server is listening for connections...")
+    
+            while True:
+                # Accept a client connection
+                conn, addr = server_socket.accept()
+                print(f"Connection attempted from {addr[0]}")
+    
+                # Check if the connection is from the allowed IP
+                # if addr[0] == allowed_ip:
+                    # print(f"Connected by {addr}")
+                with conn:
+                    with open('received_output.wav', 'wb') as f:
+                        while True:
+                            data = conn.recv(1024)
+                            if not data:
+                                break
+                            f.write(data)
+    
+                    print("File received successfully.")
+    
+                    response_message = "Thank you, file received!"
+    
+                    # Send a confirmation message back to the client
+                    conn.sendall(response_message.encode('utf-8'))
 
         # Extract audio embeddings
         audio_embeddings = clap_model.get_audio_embeddings([audio_filename])
