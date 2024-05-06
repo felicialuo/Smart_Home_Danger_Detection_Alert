@@ -206,18 +206,18 @@ if __name__ == "__main__":
     # get labels
     label2id, id2label = get_labels(csv_path=labels_csv_path)
 
-    # prepare vclip
-    vclip_model, vclip_pipeline = prepare_vclip(label2id.keys())
+    # # prepare vclip
+    # vclip_model, vclip_pipeline = prepare_vclip(label2id.keys())
 
     
     import time
     start_time = time.time()
 
-    print("---VCLIP")
-    vclip_results = inference_vclip(file_path, vclip_model, vclip_pipeline)
-    for i in [0, 2, 4, 6, 8]:
-        if vclip_results[i] == -1: continue
-        if i % 2 == 0: print(id2label[vclip_results[i]], vclip_results[i+1])
+    # print("---VCLIP")
+    # vclip_results = inference_vclip(file_path, vclip_model, vclip_pipeline)
+    # for i in [0, 2, 4, 6, 8]:
+    #     if vclip_results[i] == -1: continue
+    #     if i % 2 == 0: print(id2label[vclip_results[i]], vclip_results[i+1])
 
     print("---CLAP")
     clap_results = inference_clap(file_path, label2id.keys())
@@ -229,6 +229,7 @@ if __name__ == "__main__":
 
 
     # Ensemble
+    vclip_results = [-1, 0] * 5
     trained_ensemble = joblib.load('trained_RF_ensemble.joblib')
 
     X_test = np.expand_dims(np.hstack([vclip_results, clap_results]), axis=0)
