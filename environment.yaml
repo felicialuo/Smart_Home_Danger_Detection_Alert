@@ -6,6 +6,7 @@ channels:
 dependencies:
   - blas=1.0=mkl
   - bzip2=1.0.8
+  - django>=5.0
   - ca-certificates=2023.08.22
   - intel-openmp=2023.2.0
   - libcxx=15.0.7
