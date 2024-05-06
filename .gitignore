@@ -24,3 +24,4 @@
 # ignore cache
 *.pyc
 *.DS_Store
+*.Identifier
