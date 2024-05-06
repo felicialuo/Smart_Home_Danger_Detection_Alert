@@ -19,10 +19,10 @@ conda env create -f environment.yaml
 - To run Video Finetuned CLIP inference, open [ViFi-CLIP_inference.ipynb](./ViFi-CLIP/ViFi-CLIP_inference.ipynb). Specify label csv file path and video path in the first cell and run all.
 
 ## Run Pi Code
-- In the smarthome-pi folder, run python3 main.py
+In the smarthome-pi folder, run python3 main.py
 
 ## Run Webapp
-= In the webapp folder, run 
+In the webapp folder, run 
 ```
 python3 manage.py makemigrations
 python3 manage.py migrate
